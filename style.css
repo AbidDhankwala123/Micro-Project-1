@@ -1,0 +1,83 @@
+header{
+    
+    background-color: burlywood;
+    column-count: 2;
+    
+}
+footer{
+    padding: 10px;
+    background-color: black;
+    column-count: 2;
+}
+ul{
+    color: white;
+    list-style-type: none;
+}
+li{
+    padding: 3px;
+}
+#instagramlogo,#linkedinlogo{
+    height: 20px;
+    width: 20px;
+    
+}
+#hello-email{
+    margin-top: 20px;
+}
+#footer-left-div{
+    padding-left: 160px;
+}
+#footer-right-div-ul{
+    padding-left: 220px;
+    padding-top: 15px;
+}
+div>h1{
+    padding: 40px 0px 20px 25px;
+    margin-bottom: 0;
+    width: 450px;
+}
+
+div p{
+    padding-left: 25px;
+    margin-top: 0;
+    width: 370px;
+    text-align: justify;
+}
+div strong{
+    padding: 20px 0px 0px 25px;
+}
+#email{
+    padding: 5px 20px 5px 20px; 
+    margin:  25px 25px 0px 25px;
+}
+#button{
+    padding: 5px 20px 5px 20px;
+    margin: 10px;
+    background-color: black;
+    color: white;
+}
+small{
+    padding: 10px;
+    margin: 25px;
+    color: white;
+}
+#firstLi{
+    padding-left: 93px;
+}
+#hello-email{
+    padding-left: 50px;
+}
+#linkedinlogo{
+    padding-left: 110px;
+}
+#selfie{
+    padding-left: 50px;
+    height: 400px;
+    width: 400px;
+}
+#header-left-div{
+    padding-left: 150px;
+    
+} 
+
+
