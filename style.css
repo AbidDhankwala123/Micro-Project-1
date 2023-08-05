@@ -49,6 +49,7 @@ div strong{
 #email{
     padding: 5px 20px 5px 20px; 
     margin:  25px 25px 0px 25px;
+    border: 2px solid black;
 }
 #button{
     padding: 5px 20px 5px 20px;
